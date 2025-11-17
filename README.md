@@ -1,2 +1,3 @@
-Note that the brennan file has a different file type, unlike sophia and maddie. 
-Sophia and maddie merged their branches to main and had to figure out how to solve the merge conflicts, brennan merged smoothly but seperatly.
+Note that the Brennan file has a different file type, unlike Sophia and Maddie. 
+Sophia and Maddie merged their branches to the main and had to figure out how to solve the merge conflicts. Brennan merged smoothly but separately.
+It was super great and Awesome. Git Hub is such a useful and powerful tool. 
